@@ -1,0 +1,41 @@
+section{
+    border:solid 0.1cm grey;
+    border-radius:0.1cm;
+}
+section h2{
+    font-size:15mm;
+    text-shadow: 1.5mm 1.5mm black;
+    font-family:'Helvetica';
+    background-color:gray;
+    color:white;
+    text-align:center;
+    margin:0;
+}
+article{
+    background-color:lightgray;
+    border: solid 1mm;
+    border-radius:2mm;
+    padding:1cm;
+    margin:1.5cm;
+}
+article p{
+    font-size:7mm;
+    color:white;
+}
+
+article ul li:nth-child(1){
+    font-size:0.7cm;
+    background-color:white;
+}
+article ul li:nth-child(2){
+    font-size:1cm;
+    color:white;
+}
+article ul li:nth-child(3){
+    font-size:1.2cm;
+    background-color:white;
+}
+article h3{
+    font-size:1.5cm;
+    color:white;
+}

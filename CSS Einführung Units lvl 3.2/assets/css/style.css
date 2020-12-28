@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,500&display=swap');
+body{
+    background-image:url(http://www.supah.it/dribbble/008/008.jpg);
+    background-position:center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    width:100vw;
+    height:100vh;
+    margin:0 auto;
+    text-align: center;
+    font-family: 'Roboto';
+}
+h2{
+    font-family:'Roboto';
+    color:#565c73;
+    margin:0 auto;
+    text-transform: uppercase;
+    text-align: center;
+}
+h1{
+    font-size:270px;
+    color:#cdd4de;
+    margin:200px 0 0 0;
+    opacity: 0.5;
+}
+h3{
+    font-size:65px;
+    color:#cdd4de;
+    margin: 10px;
+    opacity: 0.5;
+}
+h5{
+    color:#cdd4de;
+    font-size:25px;
+    opacity: 0.5;
+}
+div{
+    margin:auto 43%;
+    padding:20pxauto;
+}
+h4{
+    color:#cdd4de;
+    border:1px solid #cdd4de;
+    margin-top:15vh;
+    padding:10px 15px;
+    opacity: 0.5;
+}
+div h4:hover{
+    background-color:rgba(242,234,234,0.1)
+}
